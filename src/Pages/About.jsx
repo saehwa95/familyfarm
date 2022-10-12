@@ -1,9 +1,9 @@
 import React from "react";
-
+import Header from "../Component/Header";
 const About = () => {
   return (
     <>
-      <h1>어바웃입니다. </h1>
+      <Header />
     </>
   );
 };

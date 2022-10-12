@@ -10,10 +10,10 @@ const Header = () => {
           src={header_logo}
           alt=""
           style={{
-            width: "225px",
-            height: "225px",
+            width: "185px",
+            height: "185px",
             marginTop: "1px",
-            borderRadius: "95px",
+            borderRadius: "75px",
           }}
         ></img>
       </MainHeader>
@@ -22,7 +22,7 @@ const Header = () => {
 };
 const MainHeader = styled.div`
 width: 100%;
-height: 236px;
+height: 200px;
 background-color: #8F1116;
 justify-content: center;
 align-items: center;

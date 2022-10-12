@@ -1,9 +1,10 @@
 import React from "react";
+import Header from "../Component/Header";
 
 const Notice = () => {
   return (
     <>
-      <h1>노티스입니다. </h1>
+      <Header />
     </>
   );
 };
